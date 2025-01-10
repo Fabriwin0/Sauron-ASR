@@ -1,0 +1,10 @@
+datasets[audio]
+transformers==4.40.1
+torchaudio
+accelerate
+evaluate
+jiwer
+tensorboard
+gradio
+spaces
+logging
