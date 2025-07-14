@@ -7,4 +7,6 @@ jiwer
 tensorboard
 gradio
 spaces
-logging
+torch
+sentencepiece
+protobuf
